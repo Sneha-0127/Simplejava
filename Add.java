@@ -6,5 +6,6 @@ public static void main(String[] args){
     int b=27;
     int sum=a+b;
     System.out.println("addition of 12 and 27 is"+sum);
+    System.out.println("hello world");
 }
 }
